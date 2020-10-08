@@ -2,7 +2,7 @@
 
 Flutter implementation for following [Dribble UI](https://dribbble.com/shots/11208365-Food-Delivery-App-Design)
 
-<img src="https://im6.ezgif.com/tmp/ezgif-6-2683b0369fdd.gif" width="480px" />
+<img src="https://im6.ezgif.com/tmp/ezgif-6-e4dc7c4c9024.gif" width="480px" />
 
 
 ## Getting Started
